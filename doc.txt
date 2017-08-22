@@ -1,0 +1,10 @@
+# -*- coding:utf-8 -*-
+
+1   如何读取已有的sheet为一个实例？
+2   xlwt module 默认的 ascii 无法解码 utf-8
+3   unicode、string、ASCII、UTF-8、汉字等之间的关系
+
+1   python 中程序块不存在作用域问题（例如for循环）
+2   split append 方法
+3   xlwt save 的必要性
+4   u's' r's'
